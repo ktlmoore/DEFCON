@@ -1,0 +1,12 @@
+>>>Header
+|+----------------------------------------+|
+|| ADIOS                                  ||
+|| ALIAS-Driven Intel Operating System    ||
+|+----------------------------------------+|
+>>>
+>>>Help
+| Help                                     |
+|------------------------------------------|
+| "open" - open a file for reading         |
+| "whoami" - check current username        |
+>>>
